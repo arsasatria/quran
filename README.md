@@ -1,5 +1,8 @@
 # Quran Online - Arsa | For Developers
 
+<h1>Proyek ini telah dimigrasikan ke https://quran.imuslim.me</h1>
+
+
 Repositori project Al-Qur'an digital dari <br>
 https://quran.arsa.me | Quran Online - Arsa
 
